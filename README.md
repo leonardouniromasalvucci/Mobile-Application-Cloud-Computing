@@ -12,8 +12,8 @@ The user can login with username and password, or can log in with facebook. If y
 * Hardware:
   * Android Smartphone
 * Software:
-        * [Android Studio] (https://developer.android.com/studio)
-	* [Heroku] (https://www.heroku.com/)
-	* [Node.js](https://nodejs.org/it/)
-	* [Firebase] (https://firebase.google.com/)
+  * [Android Studio] (https://developer.android.com/studio)
+  * [Heroku] (https://www.heroku.com/)
+  * [Node.js](https://nodejs.org/it/)
+  * [Firebase] (https://firebase.google.com/)
 
