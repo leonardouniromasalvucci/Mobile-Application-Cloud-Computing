@@ -16,4 +16,5 @@ The user can login with username and password, or can log in with facebook. If y
   * [Heroku](https://www.heroku.com/)
   * [Node.js](https://nodejs.org/it/)
   * [Firebase](https://firebase.google.com/)
+  * [PostgreSQL](https://www.postgresql.org/)
 
